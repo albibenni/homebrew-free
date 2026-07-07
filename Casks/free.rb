@@ -1,6 +1,6 @@
 cask "free" do
-  version "1.0.0"
-  sha256 "b59a2e707bafd95228410fea014ed2e3a0504b4a59274493a19503dde4966505"
+  version "1.1.0"
+  sha256 "d937dfd8954e3064a59db388cb586523098fe7a464e4c468bd293c2832892627"
 
   url "https://github.com/albibenni/free/releases/download/v#{version}/Free.dmg"
   name "Free"
